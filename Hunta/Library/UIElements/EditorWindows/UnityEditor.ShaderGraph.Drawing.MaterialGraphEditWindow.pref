@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12386, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - __PanelContainer__rootVisualContainer__9b18936e655407e4a9f7cd63e974ca50__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__9b18936e655407e4a9f7cd63e974ca50__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__44f87539b2be2d24d86b8843f98ad277__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__44f87539b2be2d24d86b8843f98ad277__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__79c4e65bc20f0874d8fd7a06eb4ea5b4__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__79c4e65bc20f0874d8fd7a06eb4ea5b4__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__100008bd68d9613439975f30a2d85005__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__100008bd68d9613439975f30a2d85005__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__7dfe7e79ba48db046b44411cc1a7bf6e__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__7dfe7e79ba48db046b44411cc1a7bf6e__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__82ead3eccd899bb4c97651df6a2b766b__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__82ead3eccd899bb4c97651df6a2b766b__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__ac36ab6d9fbe4534287e2c5fdca11375__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__ac36ab6d9fbe4534287e2c5fdca11375__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  m_Values:
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":529.5999755859375,"y":423.20001220703127,"z":0.0},"scale":{"x":0.25,"y":0.25,"z":1.0}}'
+  - '{"m_Version":2,"m_SelectedElementsArray":["468a8d60-13e5-4936-9fa1-99611d064de5"]}'
